@@ -13,10 +13,10 @@ customer retention and revenue.
 ---
 
 ## Business Questions
-- Who are the best customers?
-- How often do customers purchase?
-- Which customers are loyal vs one-time buyers?
-- Which customer segments generate the most revenue?
+- What City makes the most profit?
+- What percentage of our customers are frequent buyers?
+- Determine the Total revenue by month?
+- Who are our highest value customer?
 
 ---
 
@@ -48,7 +48,7 @@ The following steps were performed in Excel:
 
 ---
 
-## Analysis Steps (customize this to your own analysis)
+## Analysis Steps 
 1. Created a customer-level summary table to segment customers based on their value and purchasing frequency.
 2. Calculated:
    - Total Spend per Customer
@@ -66,9 +66,10 @@ The following steps were performed in Excel:
 
 ## Visualizations (customize this to your actual visuals)
 The following charts were created in Excel:
-- Bar Chart: Customers per Segment
+- Bar Chart: City by Revenue
 - Pie Chart: Percentage of Customer Segments
 - Column Chart: Revenue by Segment
+- Line Chart: Total Revenue by Month
 
 An interactive dashboard was created to summarize insights.
 
